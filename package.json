@@ -1,13 +1,17 @@
 {
   "name": "jumbleclient",
+  "homepage": "https://minori-fh.github.io/jumbleClient",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://jumbletron.herokuapp.com",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
