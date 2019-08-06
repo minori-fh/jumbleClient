@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jumbleClient/static/css/main.fa4217cc.chunk.css",
+    "main.js": "/jumbleClient/static/js/main.78b1788f.chunk.js",
+    "main.js.map": "/jumbleClient/static/js/main.78b1788f.chunk.js.map",
+    "runtime~main.js": "/jumbleClient/static/js/runtime~main.8cfe0ae2.js",
+    "runtime~main.js.map": "/jumbleClient/static/js/runtime~main.8cfe0ae2.js.map",
+    "static/js/2.80954dbe.chunk.js": "/jumbleClient/static/js/2.80954dbe.chunk.js",
+    "static/js/2.80954dbe.chunk.js.map": "/jumbleClient/static/js/2.80954dbe.chunk.js.map",
+    "index.html": "/jumbleClient/index.html",
+    "precache-manifest.a730800aab4ae0e580756ed62316ae8a.js": "/jumbleClient/precache-manifest.a730800aab4ae0e580756ed62316ae8a.js",
+    "service-worker.js": "/jumbleClient/service-worker.js",
+    "static/css/main.fa4217cc.chunk.css.map": "/jumbleClient/static/css/main.fa4217cc.chunk.css.map",
+    "static/media/jumble.gif": "/jumbleClient/static/media/jumble.a6ec563b.gif"
+  }
+}
