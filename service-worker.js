@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jumbleClient/precache-manifest.923e14a6985245fa9c4b662f9a1bfb30.js"
+  "/jumbleClient/precache-manifest.8a904981f6f48671785e7787142656af.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jumbleClient/static/css/main.fa4217cc.chunk.css",
-    "main.js": "/jumbleClient/static/js/main.bb7705e0.chunk.js",
-    "main.js.map": "/jumbleClient/static/js/main.bb7705e0.chunk.js.map",
+    "main.js": "/jumbleClient/static/js/main.b2105ea6.chunk.js",
+    "main.js.map": "/jumbleClient/static/js/main.b2105ea6.chunk.js.map",
     "runtime~main.js": "/jumbleClient/static/js/runtime~main.8cfe0ae2.js",
     "runtime~main.js.map": "/jumbleClient/static/js/runtime~main.8cfe0ae2.js.map",
     "static/js/2.80954dbe.chunk.js": "/jumbleClient/static/js/2.80954dbe.chunk.js",
     "static/js/2.80954dbe.chunk.js.map": "/jumbleClient/static/js/2.80954dbe.chunk.js.map",
     "index.html": "/jumbleClient/index.html",
-    "precache-manifest.923e14a6985245fa9c4b662f9a1bfb30.js": "/jumbleClient/precache-manifest.923e14a6985245fa9c4b662f9a1bfb30.js",
+    "precache-manifest.8a904981f6f48671785e7787142656af.js": "/jumbleClient/precache-manifest.8a904981f6f48671785e7787142656af.js",
     "service-worker.js": "/jumbleClient/service-worker.js",
     "static/css/main.fa4217cc.chunk.css.map": "/jumbleClient/static/css/main.fa4217cc.chunk.css.map",
     "static/media/jumble.gif": "/jumbleClient/static/media/jumble.a6ec563b.gif"
