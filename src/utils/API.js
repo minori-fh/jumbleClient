@@ -3,7 +3,7 @@ export default {
 		return fetch("https://jumble-dash.herokuapp.com/auth", {
       method: 'GET',
       credentials: 'include',
-      mode: 'cors'
+      mode: 'no-cors'
     });
 	},
 	handleLogin: function(userData){
@@ -14,7 +14,7 @@ export default {
         },
         body: JSON.stringify(userData),
         credentials: 'include',
-        mode: 'cors'
+        mode: 'no-cors'
       });
 	},
 	handleSignup: function(userData){
@@ -25,14 +25,14 @@ export default {
       },
       body: JSON.stringify(userData),
       credentials: 'include',
-      mode: 'cors'
+      mode: 'no-cors'
     });
 	},
 	handlelogout: function(){
 		return fetch("https://jumble-dash.herokuapp.com/logout", {
       method: 'GET',
       credentials: 'include',
-      mode: 'cors'
+      mode: 'no-cors'
     });
 	}	
 }
